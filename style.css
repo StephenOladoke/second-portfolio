@@ -466,10 +466,10 @@ footer p:nth-child(2){
         transform: translateY(-60%);
     }
     .home h1{
-        font-size: 4.5rem;
+        font-size: 3.5rem;
     }
     .home h3{
-        font-size: 26.2px;
+        font-size: 1.7rem;
     }
     .main img{
         width: 0;
@@ -478,11 +478,11 @@ footer p:nth-child(2){
         padding-right: 6em;
     }
     .about-me h2{
-        font-size: 70px;
+        font-size: 4.2rem;
         width: 340px;
     }
     .about-me p{
-        font-size: 18px;
+        font-size: 1.1rem;
     }
     .main {
         display: flex;
